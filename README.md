@@ -4,16 +4,16 @@
 
 # Preview
 * Desktop preview
-![](assets/desktop-ss.png?raw=true)
+![](assets/desktop-ss.png)
 
 * Neofetch preview
-![](assets/neofetch.png?raw=true)
+![](assets/neofetch.png)
 
 * Workflow showcase
-![](assets/apps-ss.png?raw=true)
+![](assets/apps-ss.png)
 
 * Discord preview
-![](assets/discord-ss.png?raw=true)
+![](assets/discord-ss.png)
 
 # Details
 * OS: Arch
