@@ -14,3 +14,14 @@
 
 * Discord preview
 ![](assets/discord-ss.png?raw=true)
+
+# Details
+* OS: Arch
+* WM: bspwm
+* Terminal: urxvt
+* Fonts: `dina-font-ttf`, `dina-font-otb` (for dunst) and `siji-ng` (for polybar power button).
+All fonts are from AUR
+* X compositor: `picom-jonaburg-fix` from AUR by Arian8j2
+* Wallpaper: https://unsplash.com/photos/v7daTKlZzaw
+* Neofetch script: Edited by me, only works for me.
+* Neofetch picture: Downloaded from a random website I can't even recall or find again.
