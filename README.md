@@ -1,18 +1,19 @@
 # gruvbox-dark-bspwm
 * I got bored and re-installed arch but with dark gruvbox theme this time.
 * Variant of the first rice I made.
+* Details at the end of README
 
 # Preview
-* Desktop preview
+## Desktop preview
 ![](assets/desktop-ss.png)
 
-* Neofetch preview
+## Neofetch preview
 ![](assets/neofetch.png)
 
-* Workflow showcase
+## Workflow showcase
 ![](assets/apps-ss.png)
 
-* Discord preview
+## Discord preview
 ![](assets/discord-ss.png)
 
 # Details
